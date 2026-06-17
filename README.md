@@ -1,5 +1,4 @@
 # notebook
-learning
 # TensorFlow基础
 ## 1. 张量
 张量是一个多维数组，与numpy数组类似，具有**数据类型**和**形状**
